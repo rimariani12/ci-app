@@ -32,7 +32,7 @@
 	</div>
 
 	<div class="row mt-3">
-		<div class="col-md-3">
+		<div class="col-md-6">
 			<h3>Daftar Mahasiswa</h3>
 			<?php if( empty($mahasiswa)) : ?>
 				<div class="alert alert-danger" role="alert">
